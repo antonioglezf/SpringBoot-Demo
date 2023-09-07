@@ -7,12 +7,11 @@ import org.slf4j.LoggerFactory;
 
 @SpringBootApplication
 public class DemoApplication {
-    private static final Logger logger = LoggerFactory.getLogger(DemoApplication.class);
-
+	private static final Logger logger = LoggerFactory.getLogger(DemoApplication.class);
 
 	public static void main(String[] args) {
-        logger.info("La aplicación Spring Boot se está iniciando...");
+		logger.info("La aplicación Spring Boot se está iniciando...");
 		SpringApplication.run(DemoApplication.class, args);
-			}
+	}
 
 }
