@@ -1,0 +1,22 @@
+# Maven / Gradle
+/target/
+/build/
+
+# IDE (Eclipse, IntelliJ, etc.)
+/.idea/
+/.vscode/
+
+# Logs
+/logs/
+
+# Dependencias de compilación
+/.classpath
+/.project
+/.settings/
+
+# Archivos generados por el IDE
+*.iml
+*.log
+
+# Dependencias de Maven
+/.mvn/
