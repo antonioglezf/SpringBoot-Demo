@@ -46,4 +46,9 @@ public class Skill {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+
+	public Skill getSkillById(Long skillId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

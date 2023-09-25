@@ -79,4 +79,19 @@ public class Developer {
 		}
 		return false;
 	}
+
+	public Object getAllDevelopers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Developer getDeveloperById(Long id2) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Object getAllDevelopers() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
