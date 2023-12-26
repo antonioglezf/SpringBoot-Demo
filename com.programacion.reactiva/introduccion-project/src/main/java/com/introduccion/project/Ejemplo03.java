@@ -9,5 +9,6 @@ public class Ejemplo03 {
 
         //flux.subscribe(System.out::println);
         flux.doOnNext(System.out::println).subscribe();
+
     }
 }
